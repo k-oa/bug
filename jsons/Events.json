@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Choose a Maid",
+        "presentation" : "Floating",
+        "text": "Choose a Maid whose heart you wish to win. You'll need to complete a quest to impress her!",
+        "choices": [
+            {
+                "text" : "Maid - [Culture]",
+                "triggeredUniques": []
+            },
+            {
+                "text" : "Maid - [Religion]",
+                "triggeredUniques": []
+            },
+            {
+                "text" : "Maid - [Science]",
+                "triggeredUniques": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Maid",
+        "movementType": "Land",
+        "uniques": [
+            "Can build [Repair] improvements on tiles <in [Friendly Land] tiles>",
+            "Can build [Remove Forest] improvements on tiles",
+            "Can build [Remove Jungle] improvements on tiles",
+            "Can build [Remove Marsh] improvements on tiles"
+        ]
+    }
+]
